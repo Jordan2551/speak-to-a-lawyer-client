@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/speak-to-a-lawyer-client/static/css/main.59affdda.chunk.css",
+    "main.js": "/speak-to-a-lawyer-client/static/js/main.87e017aa.chunk.js",
+    "main.js.map": "/speak-to-a-lawyer-client/static/js/main.87e017aa.chunk.js.map",
+    "runtime-main.js": "/speak-to-a-lawyer-client/static/js/runtime-main.6323fb91.js",
+    "runtime-main.js.map": "/speak-to-a-lawyer-client/static/js/runtime-main.6323fb91.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/speak-to-a-lawyer-client/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bdf0e8e6.chunk.js": "/speak-to-a-lawyer-client/static/js/2.bdf0e8e6.chunk.js",
+    "static/js/2.bdf0e8e6.chunk.js.map": "/speak-to-a-lawyer-client/static/js/2.bdf0e8e6.chunk.js.map",
+    "index.html": "/speak-to-a-lawyer-client/index.html",
+    "precache-manifest.53e3136c94c8f012ba470456cf1b8424.js": "/speak-to-a-lawyer-client/precache-manifest.53e3136c94c8f012ba470456cf1b8424.js",
+    "service-worker.js": "/speak-to-a-lawyer-client/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/speak-to-a-lawyer-client/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.59affdda.chunk.css.map": "/speak-to-a-lawyer-client/static/css/main.59affdda.chunk.css.map",
+    "static/js/2.bdf0e8e6.chunk.js.LICENSE.txt": "/speak-to-a-lawyer-client/static/js/2.bdf0e8e6.chunk.js.LICENSE.txt",
+    "static/media/cards.png": "/speak-to-a-lawyer-client/static/media/cards.5096b1ad.png",
+    "static/media/hero.scss": "/speak-to-a-lawyer-client/static/media/hero-bg.61b20498.jpg",
+    "static/media/logo.png": "/speak-to-a-lawyer-client/static/media/logo.1ac3d7c1.png",
+    "static/media/shield.png": "/speak-to-a-lawyer-client/static/media/shield.3aae38da.png",
+    "static/media/stripe-logo.png": "/speak-to-a-lawyer-client/static/media/stripe-logo.22f68b96.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6323fb91.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bdf0e8e6.chunk.js",
+    "static/css/main.59affdda.chunk.css",
+    "static/js/main.87e017aa.chunk.js"
+  ]
+}
