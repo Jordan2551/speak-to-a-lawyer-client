@@ -16,7 +16,7 @@ const PaymentForm = (props) => {
 
     const onToken = token => {
         axios({
-            url: 'payment',
+            url: 'https://speak-to-a-lawyer.herokuapp.com/payment',
             method: 'post',
             data: {
                 amount: price * 100,

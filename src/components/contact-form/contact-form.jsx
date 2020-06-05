@@ -27,7 +27,7 @@ class ContactForm extends React.Component {
      handleOnSubmit = (event) =>{
         const { name, email, phone, caseDetails } = this.state;
         axios({
-           url: 'contact',
+           url: 'https://speak-to-a-lawyer.herokuapp.com/contact',
            method: 'post',
            data:{
                practiceArea: this.props.practiceArea,
