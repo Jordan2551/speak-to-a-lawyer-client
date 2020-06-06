@@ -3,9 +3,8 @@ import './homepage.scss';
 
 import Hero from '../../components/hero/hero';
 import SectionHeader from '../../components/section-header/section-header';
-import ContentBoxContainer from '../../components/content-box/content-box-container/content-box-container';
+import ContentBoxContainer from '../../components/content-box/cb-container/cb-container';
 import ContactForm from '../../components/contact-form/contact-form';
-
 
 import { STEP_CONTENT } from './step-content';
 import { SERVICE_CONTENT } from './service-content';
