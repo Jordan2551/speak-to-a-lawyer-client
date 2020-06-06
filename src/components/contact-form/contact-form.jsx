@@ -42,7 +42,11 @@ class ContactForm extends React.Component {
             this.props.showStep(3);
         })
         .catch(res => {
-            const {message} = res.response.data;
+            let message = {};
+            if (res.isAxiosError)
+                 message = { header: 'Sorry, there was a problem with your request!', text: res.message, variant: 'danger' };
+            else
+                 message = res.response.data;
             this.setState({alert: message});
         });
         event.preventDefault();

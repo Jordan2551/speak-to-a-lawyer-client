@@ -13,10 +13,10 @@ const Footer = () => {
                     <Col xs={12} md={4}>
                         <p className="footer-title">Company</p>
                         <div className="footer-links">
-                            <a href="#how-does-it-work">How Does it Work?</a>
-                            <a href="http://localhost:3000/book">Speak to a Lawyer Now</a>
-                            <a href="#services">Services</a>
-                            <a href="#services">Privacy Policy</a>
+                            <a href="#how-it-works">How Does it Work?</a>
+                            <a href="#step1">Speak to a Lawyer Now</a>
+                            <a href="#step1">Services</a>
+                            <a href="#step1">Privacy Policy</a>
                         </div>
                     </Col>
                     <Col xs={12} md={4}>
