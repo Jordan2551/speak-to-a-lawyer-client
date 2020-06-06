@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/speak-to-a-lawyer-client/precache-manifest.d003e37e9a82966df861c76c3cb1330c.js"
+  "/speak-to-a-lawyer-client/precache-manifest.086daa2d8f1416181fb22dc2efa1a10d.js"
 );
 
 self.addEventListener('message', (event) => {

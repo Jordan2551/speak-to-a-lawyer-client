@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/speak-to-a-lawyer-client/static/css/main.636ec2d4.chunk.css",
+    "main.css": "/speak-to-a-lawyer-client/static/css/main.5812e6c8.chunk.css",
     "main.js": "/speak-to-a-lawyer-client/static/js/main.c2749d03.chunk.js",
     "main.js.map": "/speak-to-a-lawyer-client/static/js/main.c2749d03.chunk.js.map",
     "runtime-main.js": "/speak-to-a-lawyer-client/static/js/runtime-main.6323fb91.js",
@@ -9,10 +9,10 @@
     "static/js/2.bdf0e8e6.chunk.js": "/speak-to-a-lawyer-client/static/js/2.bdf0e8e6.chunk.js",
     "static/js/2.bdf0e8e6.chunk.js.map": "/speak-to-a-lawyer-client/static/js/2.bdf0e8e6.chunk.js.map",
     "index.html": "/speak-to-a-lawyer-client/index.html",
-    "precache-manifest.d003e37e9a82966df861c76c3cb1330c.js": "/speak-to-a-lawyer-client/precache-manifest.d003e37e9a82966df861c76c3cb1330c.js",
+    "precache-manifest.086daa2d8f1416181fb22dc2efa1a10d.js": "/speak-to-a-lawyer-client/precache-manifest.086daa2d8f1416181fb22dc2efa1a10d.js",
     "service-worker.js": "/speak-to-a-lawyer-client/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/speak-to-a-lawyer-client/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.636ec2d4.chunk.css.map": "/speak-to-a-lawyer-client/static/css/main.636ec2d4.chunk.css.map",
+    "static/css/main.5812e6c8.chunk.css.map": "/speak-to-a-lawyer-client/static/css/main.5812e6c8.chunk.css.map",
     "static/js/2.bdf0e8e6.chunk.js.LICENSE.txt": "/speak-to-a-lawyer-client/static/js/2.bdf0e8e6.chunk.js.LICENSE.txt",
     "static/media/cards.png": "/speak-to-a-lawyer-client/static/media/cards.5096b1ad.png",
     "static/media/hero.scss": "/speak-to-a-lawyer-client/static/media/hero-bg.61b20498.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.6323fb91.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.bdf0e8e6.chunk.js",
-    "static/css/main.636ec2d4.chunk.css",
+    "static/css/main.5812e6c8.chunk.css",
     "static/js/main.c2749d03.chunk.js"
   ]
 }
