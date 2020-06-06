@@ -1,0 +1,11 @@
+@import "../../../assets/styles/global";
+
+.cb-container{
+    display: flex;
+    flex-wrap: wrap;
+
+    @media(max-width: $breakpoint){
+        flex-flow: column;
+    }
+
+}
