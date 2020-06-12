@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e306a4ae7a12103a35e51b5ddf45c20",
+    "revision": "fa6bdff3b06ec11751fef6becfba8df4",
     "url": "/speak-to-a-lawyer-client/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speak-to-a-lawyer-client/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "b98f29127532e117b5c1",
-    "url": "/speak-to-a-lawyer-client/static/css/main.95f43379.chunk.css"
+    "revision": "8a1b6b4d32b88a17cdbe",
+    "url": "/speak-to-a-lawyer-client/static/css/main.a13804be.chunk.css"
   },
   {
     "revision": "7b3f98eb2bc6923f9106",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speak-to-a-lawyer-client/static/js/2.df111da8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b98f29127532e117b5c1",
+    "revision": "8a1b6b4d32b88a17cdbe",
     "url": "/speak-to-a-lawyer-client/static/js/main.1d8861cd.chunk.js"
   },
   {
