@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://speak-to-a-lawyer.herokuapp.com/",
-  "homepage": "https://jordan2551.github.io/speak-to-a-lawyer-client",
+  "homepage": "https://speaktoalawyer.ca",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
